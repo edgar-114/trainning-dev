@@ -155,7 +155,6 @@ if __name__ == "__main__":
             raise ValueError(f"Task {task} not supported")
         status = upload_output(output_path)
         uploading_status.append(status)
+        with open("uploading_status.json", "w") as f:
+            json.dump(uploading_status, f)
         shutil.rmtree(temp_data_dir, ignore_errors=True)
-    
-    with open("uploading_status.json", "w") as f:
-        json.dump(uploading_status, f)

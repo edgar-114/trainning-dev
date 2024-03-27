@@ -2,6 +2,282 @@
     [
         "shakespeare",
         {
+            "model_id": "212074388867870368454393667068333979233",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "332481795526896600273582947124717158707",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "149859537775565170749037997570330376349",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "16701426867689094250337807079643842061",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "111348797615067771194794617948307873636",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "189426183014683532126998865094275876490",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "12687736286341537667198748003359176650",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "224292637165299423500248308896051069299",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "196718419120909941494140903476877647631",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "207139890950048628726114569069265543290",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "9214382502663477630207577387714739914",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "94302971701689150910285049561886982251",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "60186533026862971192456621950697533447",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
+                    "name": "human_chat"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "329704709278409248631985935930923400385",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
             "model_id": "303660191755079952432492240844584071350",
             "datasets": [
                 {
@@ -74,62 +350,6 @@
     [
         "shakespeare",
         {
-            "model_id": "236803205083227261367243270990305045958",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "208423004003888921426978463637764997752",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
             "model_id": "243711982776527566549011088128721548140",
             "datasets": [
                 {
@@ -156,34 +376,6 @@
         {
             "model_id": "11216536893008715913324961386435384575",
             "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "160046071512967756739611799497267639686",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
                 {
                     "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
                     "name": "paragraphs"
@@ -302,6 +494,1194 @@
     [
         "shakespeare",
         {
+            "model_id": "40570823626930857999646172461285220797",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
+                    "name": "against_the_god"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "185989715537327738812854797476587791258",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "321637554598763223539950754201463358921",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "165044959646619169430212213462312438955",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "14874400728602030560660383351013427675",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "80638262573371848088090108258463073654",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "278529216608665007375675388433699794045",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "35532573519934085077405074638834710019",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "212844906759798677411589852175261818780",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "199816637749429858547519571489262581746",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "136921179499066146585548204953247247282",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "188568988965694763537624166239436232458",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "40768162988375405266077257939086209843",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "50057684649986858386641521680018324285",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "31405599384397416585827002390726019985",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "118421119113820544363228965968734341070",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "285775989593502249895399601664154324678",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
+                    "name": "against_the_god"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "554475512996726140334299097647223079",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "309708254379997413361716524938800078020",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "223509674819598700747777605497580555047",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
+                    "name": "against_the_god"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "147558936865425288536504177764771803693",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "269233626591302419425512096836646360267",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "11895429862507517722636381422989461211",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "212897440670081566890454344389908899087",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "166913963607352683885458101561089219967",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
+                    "name": "against_the_god"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "332082825924148527591151794747836935291",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "201095105785893523902146982272517664252",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "89993612884661257438241338310269848274",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "110749582160045243738536204974529201524",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "26103627580621829644139272848468576603",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "317677746968397218913196787462306175003",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "42450692149517240901322905810108131212",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "4335994627379894667518402442663190216",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "64011863356917937120452464477545765369",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "297417647103702841797457008059103636044",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "239651030781343954982883355583909899135",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "147873502232209779185037343024213322455",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "52346886489579763794704777479874343964",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
+                    "name": "against_the_god"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "39670029461541602246777386861876999385",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "101718093780381657305152277827037341156",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "52372712112480998995315556297682370332",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "84922996372307552447988367568224731587",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "25766357621247000227480001801523845442",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "245941307779970350515378356001067628938",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "103662289230182217507616975355781544550",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
+                    "name": "against_the_god"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "116692914977964948928728424262528079187",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
+                    "name": "against_the_god"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
+                    "name": "human_chat"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "236803205083227261367243270990305045958",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "208423004003888921426978463637764997752",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "160046071512967756739611799497267639686",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
             "model_id": "244531589638947247509913034855315634072",
             "datasets": [
                 {
@@ -386,164 +1766,12 @@
     [
         "shakespeare",
         {
-            "model_id": "40570823626930857999646172461285220797",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
-                    "name": "against_the_god"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "185989715537327738812854797476587791258",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "78359725575379637827915541896192927924",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
-                    "name": "against_the_god"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
-                    "name": "human_chat"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "332481795526896600273582947124717158707",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "149859537775565170749037997570330376349",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
             "model_id": "129278872476020326024098662503554116308",
             "datasets": [
                 {
                     "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
                     "name": "dracula"
                 },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "321637554598763223539950754201463358921",
-            "datasets": [
                 {
                     "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
                     "name": "paragraphs"
@@ -594,158 +1822,6 @@
     [
         "shakespeare",
         {
-            "model_id": "165044959646619169430212213462312438955",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "14874400728602030560660383351013427675",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "80638262573371848088090108258463073654",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "163766232601812527359255689917379208761",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
-                    "name": "human_chat"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "278529216608665007375675388433699794045",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "35532573519934085077405074638834710019",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
             "model_id": "254362957417404986114426136395246001553",
             "datasets": [
                 {
@@ -767,90 +1843,6 @@
                 {
                     "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
                     "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "30179414666616700107619141868487430244",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
-                    "name": "against_the_god"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
-                    "name": "human_chat"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "212844906759798677411589852175261818780",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "16701426867689094250337807079643842061",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
                 }
             ]
         }
@@ -916,62 +1908,6 @@
         {
             "model_id": "269502573496349050359100891492753053853",
             "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "199816637749429858547519571489262581746",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "233539680229683291672969251243532888397",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
-                    "name": "human_chat"
-                },
                 {
                     "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
                     "name": "dracula"
@@ -1082,26 +2018,6 @@
     [
         "shakespeare",
         {
-            "model_id": "111348797615067771194794617948307873636",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
             "model_id": "10166883398401688651335957033588995320",
             "datasets": [
                 {
@@ -1158,30 +2074,6 @@
     [
         "shakespeare",
         {
-            "model_id": "136921179499066146585548204953247247282",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
             "model_id": "76757000435746098996417603298868191777",
             "datasets": [
                 {
@@ -1210,32 +2102,12 @@
     [
         "shakespeare",
         {
-            "model_id": "188568988965694763537624166239436232458",
+            "model_id": "179578000250986200537553615618703988071",
             "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
                 {
                     "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
                     "name": "dracula"
                 },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "40768162988375405266077257939086209843",
-            "datasets": [
                 {
                     "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
                     "name": "paragraphs"
@@ -1258,8 +2130,696 @@
     [
         "shakespeare",
         {
-            "model_id": "179578000250986200537553615618703988071",
+            "model_id": "180870793970380131003600005086218066680",
             "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "98508342836622948055173455596074461043",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "149349675173928447331889833013961205712",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "44380314679362120349275680038313193720",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "4384362742373387225333464999944697786",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "36428826655852812499261563665349490168",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "56965094772446276579954318844433215115",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "299153154259475770240251665384521856905",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "321949256479622570150943038250320759918",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "153928733932854195176388365111353623109",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "103677005159577301265736203257598678816",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "253040335889085995367368166983086006522",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "237381806216157264594266906410814204148",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "8999461700653712934696517060730035522",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "299118780220736744332852100902581428968",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "334357173678072084883689736480627752136",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "23216515784874312165830095021099166480",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "163766232601812527359255689917379208761",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
+                    "name": "human_chat"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "233539680229683291672969251243532888397",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
+                    "name": "human_chat"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "323415865614058147265875178938305580382",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
+                    "name": "human_chat"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "259451009037698735089574460339609345257",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
+                    "name": "human_chat"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "142033951125581151701066680653193199258",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
+                    "name": "human_chat"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "78359725575379637827915541896192927924",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
+                    "name": "against_the_god"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
+                    "name": "human_chat"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
+                    "name": "dracula"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
+                    "name": "paragraphs"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
+                    "name": "EternalSunshine"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
+                    "name": "harrypotter"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
+                    "name": "fairy_tails"
+                }
+            ]
+        }
+    ],
+    [
+        "shakespeare",
+        {
+            "model_id": "30179414666616700107619141868487430244",
+            "datasets": [
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
+                    "name": "against_the_god"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
+                    "name": "shakespeare"
+                },
+                {
+                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
+                    "name": "human_chat"
+                },
                 {
                     "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
                     "name": "dracula"
@@ -1366,318 +2926,6 @@
     [
         "shakespeare",
         {
-            "model_id": "50057684649986858386641521680018324285",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "31405599384397416585827002390726019985",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "189426183014683532126998865094275876490",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "118421119113820544363228965968734341070",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "180870793970380131003600005086218066680",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "12687736286341537667198748003359176650",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "98508342836622948055173455596074461043",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "224292637165299423500248308896051069299",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "285775989593502249895399601664154324678",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
-                    "name": "against_the_god"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "554475512996726140334299097647223079",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "309708254379997413361716524938800078020",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "223509674819598700747777605497580555047",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
-                    "name": "against_the_god"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "149349675173928447331889833013961205712",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
             "model_id": "13073971147901868716970231393983068835",
             "datasets": [
                 {
@@ -1711,1254 +2959,6 @@
                 {
                     "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
                     "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "44380314679362120349275680038313193720",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "147558936865425288536504177764771803693",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "323415865614058147265875178938305580382",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
-                    "name": "human_chat"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "269233626591302419425512096836646360267",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "11895429862507517722636381422989461211",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "212897440670081566890454344389908899087",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "4384362742373387225333464999944697786",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "166913963607352683885458101561089219967",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
-                    "name": "against_the_god"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "36428826655852812499261563665349490168",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "332082825924148527591151794747836935291",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "56965094772446276579954318844433215115",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "259451009037698735089574460339609345257",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
-                    "name": "human_chat"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "201095105785893523902146982272517664252",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "196718419120909941494140903476877647631",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "299153154259475770240251665384521856905",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "89993612884661257438241338310269848274",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "110749582160045243738536204974529201524",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "321949256479622570150943038250320759918",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "207139890950048628726114569069265543290",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "26103627580621829644139272848468576603",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "9214382502663477630207577387714739914",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "317677746968397218913196787462306175003",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "153928733932854195176388365111353623109",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "94302971701689150910285049561886982251",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "42450692149517240901322905810108131212",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "4335994627379894667518402442663190216",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "212074388867870368454393667068333979233",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "64011863356917937120452464477545765369",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "297417647103702841797457008059103636044",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "239651030781343954982883355583909899135",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "103677005159577301265736203257598678816",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "147873502232209779185037343024213322455",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "142033951125581151701066680653193199258",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
-                    "name": "human_chat"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "253040335889085995367368166983086006522",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "60186533026862971192456621950697533447",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
-                    "name": "human_chat"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "329704709278409248631985935930923400385",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "52346886489579763794704777479874343964",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
-                    "name": "against_the_god"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "237381806216157264594266906410814204148",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "39670029461541602246777386861876999385",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "101718093780381657305152277827037341156",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "52372712112480998995315556297682370332",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "8999461700653712934696517060730035522",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "84922996372307552447988367568224731587",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "25766357621247000227480001801523845442",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "299118780220736744332852100902581428968",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "245941307779970350515378356001067628938",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "334357173678072084883689736480627752136",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "23216515784874312165830095021099166480",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/dracula.zip",
-                    "name": "dracula"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/EternalSunshine.zip",
-                    "name": "EternalSunshine"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/fairy_tails.zip",
-                    "name": "fairy_tails"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "103662289230182217507616975355781544550",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
-                    "name": "against_the_god"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/harrypotter.zip",
-                    "name": "harrypotter"
-                }
-            ]
-        }
-    ],
-    [
-        "shakespeare",
-        {
-            "model_id": "116692914977964948928728424262528079187",
-            "datasets": [
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/against_the_god.zip",
-                    "name": "against_the_god"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/human_chat.zip",
-                    "name": "human_chat"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/paragraphs.zip",
-                    "name": "paragraphs"
-                },
-                {
-                    "url": "https://cdn.eternalai.org/ai-school-dataset/shakespeare.zip",
-                    "name": "shakespeare"
                 }
             ]
         }
