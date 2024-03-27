@@ -1,0 +1,871 @@
+[
+    {
+        "model_id": "62695603181473949687510174314055387106",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"lucua\",\"datasets\":[\"64460f77a4832018aed11964\",\"64460f77a4832018aed119c5\",\"64460f77a4832018aed1190f\",\"64460f77a4832018aed11957\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "dreams",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dreams-by-joshua-bagley.zip"
+            },
+            {
+                "name": "machine comics",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/machine-comics-by-roni-block.zip"
+            },
+            {
+                "name": "act of emotion",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/act-of-emotion-by-kelly-milligan.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "277893393319227609979976460873181860146",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"TEXTING\",\"datasets\":[\"65f3dde6646f61e3b13a84b6\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "harrypotter",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/harrypotter.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "19297210931970656590007760867486325157",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"megawati ai\",\"datasets\":[\"64460f77a4832018aed1190f\",\"64460f77a4832018aed11957\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "act of emotion",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/act-of-emotion-by-kelly-milligan.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "139637736703595748208413778762209021203",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"Vojta\",\"datasets\":[\"64460f77a4832018aed119b0\",\"644b84302ac6788d7ef600a0\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "inspirals",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/inspirals-by-radix.zip"
+            },
+            {
+                "name": "kanpai pandas",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/kanpai-pandas.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "124967375200648334616171500982238640266",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"James\",\"datasets\":[\"65f3dde6646f61e3b13a84b7\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":256,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "human_chat",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/human_chat.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "332627106859141432512193871151302255834",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"ratan25\",\"datasets\":[\"64460f77a4832018aed1190f\",\"64460f77a4832018aed11923\",\"64460f77a4832018aed11964\",\"64460f77a4832018aed11957\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "act of emotion",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/act-of-emotion-by-kelly-milligan.zip"
+            },
+            {
+                "name": "archetype",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/archetype-by-kjetil-golid.zip"
+            },
+            {
+                "name": "dreams",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dreams-by-joshua-bagley.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "65573568706489280671739505212994990938",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"Dojo Points\",\"datasets\":[\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "226694377399761343950217604074549982287",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"Lily Rose\",\"datasets\":[\"64460f77a4832018aed11a5c\",\"64460f77a4832018aed11a6b\",\"64460f77a4832018aed1190f\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "timepiece",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/timepiece-by-wawaa.zip"
+            },
+            {
+                "name": "variant plan",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/variant-plan-by-jeff-davis.zip"
+            },
+            {
+                "name": "act of emotion",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/act-of-emotion-by-kelly-milligan.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "308876415830335379314936227906494891992",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "229345973775187222489463426732426688239",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "287242131161617686266990956852754277296",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "57095118268193280957290170315571421428",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "15018420295586335357315146598540752299",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "236855967800314541053641559722172268867",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "339243858988716598374603717108389411118",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "327126948381781979731070700624374978417",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "271132442866581491993247202703339268515",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "97376534365236863115963077926047938871",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"ai\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b4\",\"65f3dde6646f61e3b13a84b9\",\"65f3dde6646f61e3b13a84b5\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "EternalSunshine",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/EternalSunshine.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "211833729630507175481322081149641641426",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"sals\",\"datasets\":[\"64460f77a4832018aed11a60\",\"64460f77a4832018aed119c5\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "traversals",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/traversals-by-loren-bednar.zip"
+            },
+            {
+                "name": "machine comics",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/machine-comics-by-roni-block.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "215041355811699789353243387500025056913",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"0katif4\",\"datasets\":[\"65f3dde6646f61e3b13a84b6\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "harrypotter",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/harrypotter.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "200885161526251470986515497934971833317",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"kamal hosen\",\"datasets\":[\"64460f77a4832018aed11985\",\"64460f77a4832018aed11923\",\"64460f77a4832018aed11964\",\"64460f77a4832018aed11957\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "fontana",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fontana-by-harvey-rayner-patterndotco.zip"
+            },
+            {
+                "name": "archetype",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/archetype-by-kjetil-golid.zip"
+            },
+            {
+                "name": "dreams",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dreams-by-joshua-bagley.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "316981473122236610797450327435102109568",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"Ellie\",\"datasets\":[\"64460f77a4832018aed11a5a\",\"64460f77a4832018aed11964\",\"64460f77a4832018aed11957\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "time squared",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/time-squared-by-steen-x-n-e-o.zip"
+            },
+            {
+                "name": "dreams",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dreams-by-joshua-bagley.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "196996855029052394061354315385229104859",
+        "category": "melody",
+        "params": "{\"category\":\"melody\",\"model_name\":\"EAI\",\"datasets\":[\"65f1447d646f61e3b13a8408\",\"65f1447d646f61e3b13a8407\",\"65f1447d646f61e3b13a840a\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":128,\"rnn_units\":128,\"seq_length\":40}",
+        "datasets": [
+            {
+                "name": "Haydn",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Haydn.zip"
+            },
+            {
+                "name": "Faure",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Faure.zip"
+            },
+            {
+                "name": "Cambini",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Cambini.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "103630747578511523318636261510977201328",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"Goddess\",\"datasets\":[\"64460f77a4832018aed11957\",\"644b8ae92ac6788d7ef600a8\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            },
+            {
+                "name": "mutant ape yacht club",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/mutant-ape-yacht-club.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "87136704299026328591251952229700906025",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"blue kiu\",\"datasets\":[\"64460f77a4832018aed1190f\",\"64460f77a4832018aed11957\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "act of emotion",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/act-of-emotion-by-kelly-milligan.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "247853125228469300978871314727149844139",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"King\",\"datasets\":[\"64460f77a4832018aed11a64\",\"64460f77a4832018aed11a0b\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "ultrawave 369",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/ultrawave-369-by-beervangeer.zip"
+            },
+            {
+                "name": "r3sonance",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/r3sonance-by-ge1doot.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "287844812989676266848659294412382437068",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"tangsa\",\"datasets\":[\"64460f77a4832018aed1190f\",\"64460f77a4832018aed119c5\",\"64460f77a4832018aed11957\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "act of emotion",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/act-of-emotion-by-kelly-milligan.zip"
+            },
+            {
+                "name": "machine comics",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/machine-comics-by-roni-block.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "208042715325301188109283515325530640822",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"ANM\",\"datasets\":[\"64460f77a4832018aed119c5\",\"64460f77a4832018aed11964\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "machine comics",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/machine-comics-by-roni-block.zip"
+            },
+            {
+                "name": "dreams",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dreams-by-joshua-bagley.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "117402081594603436394449231176695896341",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"TRX\",\"datasets\":[\"65f3dde6646f61e3b13a84b5\",\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b6\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            },
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "harrypotter",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/harrypotter.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "309405548757335119010625810207825616412",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"HalFinney\",\"datasets\":[\"64460f77a4832018aed11a48\",\"64460f77a4832018aed11a5f\",\"64460f77a4832018aed11911\",\"64460f77a4832018aed1191a\",\"64460f77a4832018aed11a5a\",\"64460f77a4832018aed11a23\",\"64460f77a4832018aed11964\",\"64460f77a4832018aed119c5\",\"64460f77a4832018aed11957\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "talking blocks",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/talking-blocks-by-remo-x-dcsan.zip"
+            },
+            {
+                "name": "transitions",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/transitions-by-jason-ting-x-matt-bilfield.zip"
+            },
+            {
+                "name": "aerial view",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/aerial-view-by-dalenz.zip"
+            },
+            {
+                "name": "amoeba",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/amoeba-by-last-even.zip"
+            },
+            {
+                "name": "time squared",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/time-squared-by-steen-x-n-e-o.zip"
+            },
+            {
+                "name": "seadragons",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/seadragons-by-marcin-ignac.zip"
+            },
+            {
+                "name": "dreams",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dreams-by-joshua-bagley.zip"
+            },
+            {
+                "name": "machine comics",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/machine-comics-by-roni-block.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "48678624183277103016934620407082917263",
+        "category": "melody",
+        "params": "{\"category\":\"melody\",\"model_name\":\"Comolokko\",\"datasets\":[\"65f1447d646f61e3b13a8406\",\"65f1447d646f61e3b13a8407\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":128,\"rnn_units\":128,\"seq_length\":40}",
+        "datasets": [
+            {
+                "name": "Mozart",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Mozart.zip"
+            },
+            {
+                "name": "Faure",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Faure.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "244110132783420296937382049588525665133",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"Real\",\"datasets\":[\"64460f77a4832018aed11a38\",\"64460f77a4832018aed1193c\",\"64460f77a4832018aed1197a\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "star flower",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/star-flower-by-ruben-alexander.zip"
+            },
+            {
+                "name": "catblocks",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/catblocks-by-kristy-glas.zip"
+            },
+            {
+                "name": "fake internet money",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fake-internet-money-by-steve-pikelny.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "167801408021931620503615281875974759494",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"PerceptronAI\",\"datasets\":[\"65f3dde6646f61e3b13a84ba\",\"65f3dde6646f61e3b13a84b3\",\"65f3dde6646f61e3b13a84b7\",\"65f3dde6646f61e3b13a84b5\",\"65f3dde6646f61e3b13a84b6\",\"65f3dde6646f61e3b13a84b9\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":193,\"rnn_units\":252,\"seq_length\":28}",
+        "datasets": [
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            },
+            {
+                "name": "dracula",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dracula.zip"
+            },
+            {
+                "name": "human_chat",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/human_chat.zip"
+            },
+            {
+                "name": "fairy_tails",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fairy_tails.zip"
+            },
+            {
+                "name": "harrypotter",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/harrypotter.zip"
+            },
+            {
+                "name": "paragraphs",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/paragraphs.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "20116878529413520578891505472415842656",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"snail\",\"datasets\":[\"64460f77a4832018aed11957\",\"64460f77a4832018aed119c5\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            },
+            {
+                "name": "machine comics",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/machine-comics-by-roni-block.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "271529234910683087496347703759224937971",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"david\",\"datasets\":[\"65f3dde6646f61e3b13a84b3\",\"65f3dde6646f61e3b13a84b6\",\"65f3dde6646f61e3b13a84ba\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "dracula",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dracula.zip"
+            },
+            {
+                "name": "harrypotter",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/harrypotter.zip"
+            },
+            {
+                "name": "shakespeare",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/shakespeare.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "289143157313515958515363909719271157294",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"david 2\",\"datasets\":[\"64460f77a4832018aed1192a\",\"64460f77a4832018aed11911\",\"64460f77a4832018aed11957\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "aurora iv",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/aurora-iv-by-ge1doot.zip"
+            },
+            {
+                "name": "aerial view",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/aerial-view-by-dalenz.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "47028607029793748087431231745751552825",
+        "category": "melody",
+        "params": "{\"category\":\"melody\",\"model_name\":\"keong\",\"datasets\":[\"65f1447d646f61e3b13a8408\",\"65f1447d646f61e3b13a8406\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":128,\"rnn_units\":128,\"seq_length\":40}",
+        "datasets": [
+            {
+                "name": "Haydn",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Haydn.zip"
+            },
+            {
+                "name": "Mozart",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Mozart.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "108525652636516029862877552990412648655",
+        "category": "melody",
+        "params": "{\"category\":\"melody\",\"model_name\":\"david 3 \",\"datasets\":[\"65f1447d646f61e3b13a8406\",\"65f1447d646f61e3b13a8405\",\"65f1447d646f61e3b13a8407\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":128,\"rnn_units\":128,\"seq_length\":40}",
+        "datasets": [
+            {
+                "name": "Mozart",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Mozart.zip"
+            },
+            {
+                "name": "Ravel",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Ravel.zip"
+            },
+            {
+                "name": "Faure",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Faure.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "339973558767979115727731598339190197639",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"adamadamd ai\",\"datasets\":[\"64460f77a4832018aed1190f\",\"64460f77a4832018aed11964\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "act of emotion",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/act-of-emotion-by-kelly-milligan.zip"
+            },
+            {
+                "name": "dreams",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dreams-by-joshua-bagley.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "271588251671429209268929755813043179744",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"kamaltrader96\",\"datasets\":[\"64460f77a4832018aed11957\",\"64460f77a4832018aed1190f\",\"64460f77a4832018aed11a5a\",\"64460f77a4832018aed11985\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            },
+            {
+                "name": "act of emotion",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/act-of-emotion-by-kelly-milligan.zip"
+            },
+            {
+                "name": "time squared",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/time-squared-by-steen-x-n-e-o.zip"
+            },
+            {
+                "name": "fontana",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/fontana-by-harvey-rayner-patterndotco.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "287103082161374797000558489203463711303",
+        "category": "melody",
+        "params": "{\"category\":\"melody\",\"model_name\":\"Adamadamd Melody\",\"datasets\":[\"65f1447d646f61e3b13a8406\",\"65f1447d646f61e3b13a8407\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":128,\"rnn_units\":128,\"seq_length\":40}",
+        "datasets": [
+            {
+                "name": "Mozart",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Mozart.zip"
+            },
+            {
+                "name": "Faure",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Faure.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "298066784241786800530397853189885460404",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"EAI\",\"datasets\":[\"65f3dde6646f61e3b13a84b1\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "against_the_god",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/against_the_god.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "324102210988860791851828368972553406968",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"Ethernal Check AI\",\"datasets\":[\"64460f77a4832018aed11936\",\"64460f77a4832018aed1190e\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":null,\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "blockbob rorschach",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/blockbob-rorschach-by-eboy.zip"
+            },
+            {
+                "name": "abstraction",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/abstraction-by-hevey.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "2446982355074135744027610809324785192",
+        "category": "perceptron",
+        "params": "{\"category\":\"perceptron\",\"model_name\":\"RJBEAI\",\"datasets\":[\"64460f77a4832018aed119c5\",\"64460f77a4832018aed11957\",\"64460f77a4832018aed1190f\"],\"class_names\":null,\"epoch_num\":10,\"input_dim\":[32,32],\"structure\":[20,20,20],\"activation_name\":\"ReLU\",\"val_percent\":1,\"data_augmentation_config\":{\"random_flip\":\"None\",\"random_rotation\":0,\"random_zoom\":0,\"random_contrast\":0,\"random_brightness\":0},\"batch_size\":64,\"embedding_dim\":0,\"rnn_units\":0,\"seq_length\":0}",
+        "datasets": [
+            {
+                "name": "machine comics",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/machine-comics-by-roni-block.zip"
+            },
+            {
+                "name": "daisies",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/daisies-by-natthakit-susanthitanon-nsmag.zip"
+            },
+            {
+                "name": "act of emotion",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/act-of-emotion-by-kelly-milligan.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "235983308802722292621697994244898283215",
+        "category": "melody",
+        "params": "{\"category\":\"melody\",\"model_name\":\"trimmer \",\"datasets\":[\"65f1447d646f61e3b13a8406\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":128,\"rnn_units\":128,\"seq_length\":40}",
+        "datasets": [
+            {
+                "name": "Mozart",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/Mozart.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "167968787483025614288362991064864198942",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"seocz\",\"datasets\":[\"65f3dde6646f61e3b13a84b3\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "dracula",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/dracula.zip"
+            }
+        ]
+    },
+    {
+        "model_id": "49899555801964080715022352495758776711",
+        "category": "shakespeare",
+        "params": "{\"category\":\"shakespeare\",\"model_name\":\"Samuel gbetchessou \",\"datasets\":[\"65f3dde6646f61e3b13a84b6\"],\"class_names\":null,\"epoch_num\":15,\"input_dim\":null,\"structure\":null,\"activation_name\":\"\",\"val_percent\":0,\"data_augmentation_config\":null,\"batch_size\":128,\"embedding_dim\":32,\"rnn_units\":128,\"seq_length\":30}",
+        "datasets": [
+            {
+                "name": "harrypotter",
+                "link": "https://cdn.generative.xyz/ai-school-dataset/harrypotter.zip"
+            }
+        ]
+    }
+]
